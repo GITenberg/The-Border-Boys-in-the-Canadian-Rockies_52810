@@ -1,5 +1,8 @@
 _repo: The-Border-Boys-in-the-Canadian-Rockies_52810
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 52810-h/images/cover.jpg
 creator:
   author:
     agent_name: Goldfrap, John Henry
@@ -16,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1974
     wikipedia: http://en.wikipedia.org/wiki/John_Henry_Goldfrap
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52810#The-Border-Boys-in-the-Canadian-Rockies
 gutenberg_issued: '2016-08-15'
 gutenberg_type: Text
 identifiers:
