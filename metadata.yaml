@@ -1,0 +1,32 @@
+_repo: The-Border-Boys-in-the-Canadian-Rockies_52810
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Goldfrap, John Henry
+    aliases:
+    - West, Marvin
+    - Dexter J. Forrester
+    - Lawton, Captain Wilbur
+    - Deering, Fremont B.
+    - Payson, Howard
+    - Lawton, Wilbur
+    birthdate: 1879
+    deathdate: 1917
+    gutenberg_agent_id: '1974'
+    url: http://www.gutenberg.org/2009/agents/1974
+    wikipedia: http://en.wikipedia.org/wiki/John_Henry_Goldfrap
+description: ''
+gutenberg_issued: '2016-08-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52810'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Canadian Rockies (B.C. and Alta.) -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: The Border Boys in the Canadian Rockies
+url: http://www.gutenberg.org/ebooks/52810
